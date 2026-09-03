@@ -1,1 +1,1 @@
-learn cloud with amina
+learn cloud and SRE with amina 
